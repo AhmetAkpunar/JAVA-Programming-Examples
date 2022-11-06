@@ -2,7 +2,7 @@ package basic_java_questions;
 
 import java.util.Arrays;
 
-public class MinMaxNumbersinAnArray {
+public class MinMaxNumbers {
     public static void main(String[] args) {
 
         /*
