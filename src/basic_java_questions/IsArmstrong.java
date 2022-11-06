@@ -4,6 +4,12 @@ import java.util.Scanner;
 
 public class IsArmstrong {
     public static void main(String[] args) {
+        /*
+            Check if the integer is an Armstrong numbers
+
+            153 = 1*1*1 + 5*5*5 + 3*3*3 = 153
+            370 = 3*3*3 + 7*7*7 + 0*0*0 = 370
+        */
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Is an Armstrong number or not?");
