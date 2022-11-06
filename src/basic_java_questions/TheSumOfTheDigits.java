@@ -1,6 +1,6 @@
 package basic_java_questions;
 
-public class Q1_SumOfTheDigits {
+public class TheSumOfTheDigits {
     public static void main(String[] args) {
 
         /*
